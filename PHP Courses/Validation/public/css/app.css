@@ -1,0 +1,19 @@
+.error{
+    color: red;
+    font-size: 15px;
+}
+.sign_up{
+    max-width:300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.sign_up .fields{
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+.sign_up .fields input{
+    width: 100%;
+    height: 20px;
+
+}

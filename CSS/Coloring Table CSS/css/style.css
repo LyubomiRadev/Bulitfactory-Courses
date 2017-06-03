@@ -1,0 +1,36 @@
+table, td, th{
+	border: 1px solid black;
+}
+table{
+	border-collapse: collapse;
+	background-color: 
+}
+td{
+	text-align: center;
+}
+.heading{
+	background-color: black;
+	color: white;
+}
+.tp{
+	background-color: #AAAAAA;
+}
+.cl{
+	background-color: #0636e2;
+	font-weight: bold;
+}
+.clq{
+	background-color: #00a9ff;
+}
+.el{
+	background-color: #6E6200;
+}
+.rel{
+	background-color: red;
+}
+.dark{
+	background-color: #CFCFCF;
+}
+.white{
+	background-color: #DFDFDF;
+}

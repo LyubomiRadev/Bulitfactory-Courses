@@ -1,0 +1,13 @@
+@import url(reset.css);
+
+.pic{
+	border: 3px dotted green;
+	margin: 0 auto;
+}
+p{
+	width: 240px;
+	border: 2px solid black;
+	margin: 0 auto;
+	padding: 552px;
+	line-height: 1.3em;
+}

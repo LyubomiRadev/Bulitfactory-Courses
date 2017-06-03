@@ -1,0 +1,3 @@
+<footer>
+    Website Name®
+</footer>
